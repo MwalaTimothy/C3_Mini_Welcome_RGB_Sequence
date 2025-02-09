@@ -1,2 +1,0 @@
-C3MiniWelcomeRGBSequence KEYWORD1
-blink KEYWORD2
