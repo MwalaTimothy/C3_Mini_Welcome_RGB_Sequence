@@ -1,0 +1,8 @@
+version=1.0.0
+author=Your Name
+maintainer= mwalatimo@gmail.com  
+sentence=A library to blink the built-in RGB LED on the ESP32-C3 Mini.
+paragraph=This library provides a simple way to blink the built-in RGB LED on the ESP32-C3 Mini on startup.
+category=Signal Input/Output
+url=https://github.com/MwalaTimothy/C3_Mini_Welcome_RGB_Sequence
+architectures=esp32
